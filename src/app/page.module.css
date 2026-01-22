@@ -1,0 +1,19 @@
+.container {
+    background-color: white;
+    min-height: 100vh;
+    padding: 1rem;
+}
+
+.line {
+    max-width: 42rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem
+}

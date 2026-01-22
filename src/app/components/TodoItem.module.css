@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem;
+    border-bottom: 1px solid;
+}
+
+.checkbox {
+    margin-right: 0.75rem;
+    scale: 2;
+}
+
+.done {
+    display: flex;
+}
+
+.done.active {
+    text-decoration: line-through;
+    color: black;
+}
+
+.deleteButton {
+    color: red;
+    margin-left: 0.5rem;
+
+}

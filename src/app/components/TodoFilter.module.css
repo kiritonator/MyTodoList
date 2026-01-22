@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    margin-bottom: 0.75rem;
+}
+
+.knopka {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-right: 8px
+}
+
+.knopka.active {
+    background-color: blue;
+    color: white;
+}
